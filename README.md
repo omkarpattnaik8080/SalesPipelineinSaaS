@@ -1,5 +1,5 @@
 
-<h1>SaaS Sales Prediction System using Machine Learning and AWS Deployment</h1><br>
+<h1>SaaS Sales Sales Pipeline System using Machine Learning and AWS Deployment</h1><br>
 This project aims to develop a Sales Prediction System for Software as a Service (SaaS) companies using machine learning techniques and deploying it on Amazon Web Services (AWS). The system predicts future sales based on historical data, market trends, and other <br>relevant factors, enabling SaaS companies to make informed decisions regarding resource allocation, marketing strategies, and business growth.<br>
 
 <h2>Table of Contents</h2><br>
